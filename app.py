@@ -5,6 +5,7 @@ import os
 
 # root structure of app
 root = tk.Tk()
+apps = []
 
 
 def addApp():
